@@ -9,6 +9,14 @@
     "imageUrl": "",
     "versions": [
       {
+          "version": "1.1.0.0",
+          "checksum": "7c26cb712265ae7a5470d8d7796adabf",
+          "changelog": "v1.1.0: Show name",
+          "targetAbi": "10.10.7.0",
+          "sourceUrl": "https://github.com/AliciaVilagran/Jellyfin.Plugin.AnimeUpdater/releases/download/1.1.0/AnimePluginJellyfin.zip",
+          "timestamp": "2026-01-26T12:24:00Z"
+      },
+      {
           "version": "1.0.0.0",
           "checksum": "305028d89788a7dfac122ce771ac3c01",
           "changelog": "v1.0.0: Show name",
